@@ -1,4 +1,4 @@
-Hi, I'm Emir and I'm currently near graduating IT college. My skills are .NET Core MVC, API, Xamarin, WinForms, Entity Framework Core, SQL, HTML, CSS, JS, jQuery. I'm currently looking for entry level work.
+Hi, I'm Emir and I'm currently near graduating IT college. My skills are .NET Core MVC and API, Java/Spring Boot API, TYPO3, Angular, Xamarin, WinForms, Entity Framework Core, SQL, HTML, CSS, JS, jQuery. I currently work for BITConEx d.o.o.
 You can reach me on linkedin: https://www.linkedin.com/in/emir-memic-584743124/
 
 <!---
